@@ -11,6 +11,6 @@ file:Final_val
 3.Polynomial Data  for movement 
 File:polynom
 
-4. 3D animations Model Of Twinrotor.
+4.3D animations Model Of Twinrotor.
 File:twinrotor.wrl
 Screenshot:twinrotor_anim_1
