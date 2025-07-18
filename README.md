@@ -1,5 +1,5 @@
 # Twin Rotor Stabilization with PID Control
- Twin Motor PID Controller Model with Animation (3D TwinRotor)
+ Dynamic PID Controller Model  with Animation (3D TwinRotor)
 
 1.TwinRotor PID controller  Model 
 File:TRMS_model_final_2019
