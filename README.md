@@ -1,4 +1,4 @@
-# TwinRotor-PID-Controller-
+# Twin Rotor Stabilization with PID Control
  Twin Motor PID Controller Model with Animation (3D TwinRotor)
 
 1.TwinRotor PID controller  Model 
